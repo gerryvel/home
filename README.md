@@ -12,5 +12,6 @@ Anforderung Kessel von Puffersteuerung
 Solarregelung mit variablen Speed der Pumpe über PWM
 Puffersteuerung mit integer. Warmwasserbereich
 Ertragsberechnung der Solaranlage, Visu für 2 Jahre
+
 Brunnensteuerung (in Vorbereitung)
 
