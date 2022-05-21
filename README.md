@@ -19,5 +19,5 @@ Puffersteuerung mit integer. Warmwasserbereich
 
 Ertragsberechnung der Solaranlage, Visu für 2 Jahre
 
-Brunnensteuerung (in Vorbereitung)
+Pelletslagerung, Ansteuerung für Saugzuggebläse
 
