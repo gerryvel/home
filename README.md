@@ -1,4 +1,4 @@
-# house
+# House Control
 Haussteuerung / Heizung / Solar
 
 Heizkreislauf mit Mischer und Pumpe
