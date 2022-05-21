@@ -2,7 +2,7 @@
 Haussteuerung / Heizung / Solar
 
 Heizkreislauf mit Mischer und Pumpe
-![grafik](https://github.com/gerryvel/house/blob/Fotos/photo_2022-05-20_15-44-02.jpg)
+![grafik](https://github.com/gerryvel/house/blob/Fotos/Zwischenablage02.jpg)
 Solaranlage mit Pumpe variabel über PWM
 Pufferspeicher
 Warmwasser, ein Bereich im Puffer (Kombipuffer)
