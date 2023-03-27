@@ -1,4 +1,4 @@
-## House Control
+## Home Control
 # Haussteuerung / Heizung / Solar
 - Heizkreislauf mit Mischer und Pumpe
 - Solaranlage mit Pumpe variabel über PWM
